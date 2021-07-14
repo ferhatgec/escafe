@@ -6,5 +6,5 @@ int main() {
 
     for(std::string temp; std::getline(example, temp); ) {
         std::cout << escafe::run(temp) << '\n';
-    }
+    } example.close();
 }
