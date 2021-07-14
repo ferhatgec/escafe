@@ -1,0 +1,2 @@
+escafe\wis\winteresting\n
+\x1b[0;33mtest\033[0m\n\\
